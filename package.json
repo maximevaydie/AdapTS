@@ -1,0 +1,20 @@
+{
+  "name": "adapts",
+  "version": "1.0.0",
+  "description": "AdapTS is a library that will help you implement Adapter pattern into your TS app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "maximevaydie",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.5",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.5"
+  }
+}
